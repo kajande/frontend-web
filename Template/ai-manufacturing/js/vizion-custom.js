@@ -1,5 +1,5 @@
 /*
-Template: Vizion - AI Startups Responsive WordPress Theme
+Template: Kajande - AI Startups Responsive WordPress Theme
 Author: iqonicthemes.in
 Version: 1.0
 Design and Developed by: iqonicthemes.in

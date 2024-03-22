@@ -1,5 +1,5 @@
 /*
-Vizion-Agriculture-Digital Marketing Responsive HTML5 Template
+Kajande-Agriculture-Digital Marketing Responsive HTML5 Template
 Author: iqonicthemes.in
 Version: 1.0
 Design and Developed by: iqonicthemes.in

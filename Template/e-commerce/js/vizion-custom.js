@@ -1,5 +1,5 @@
 /*
-Template: Vizion - Data science WordPress landing Page
+Template: Kajande - Data science WordPress landing Page
 Author: iqonicthemes.in
 Version: 3.5
 Design and Developed by: iqonicthemes.in
